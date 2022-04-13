@@ -1,0 +1,1 @@
+ /Users/bluedragon/Desktop/new/counter/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/bluedragon/Desktop/new/counter/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/bluedragon/Desktop/new/counter/l10n.yaml /Users/bluedragon/Desktop/new/counter/lib/l10n/app_en.arb
